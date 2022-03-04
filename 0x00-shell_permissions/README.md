@@ -1,1 +1,0 @@
-current projects readme
